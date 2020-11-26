@@ -212,3 +212,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+1. **Why are `_valid_from` and `_valid_to` **
+    have been designed to specify about the validity of the particular state of event based on available timestamp columns.
+2. **Can one domain join with another?**
+    yes
